@@ -8,7 +8,7 @@ Python >= 3.8
 
 `python main.py`
 
-
+<img src="/static/visual.png"></img>
 
 
 
